@@ -1,0 +1,76 @@
+.header {
+  box-shadow: 0 0.5rem 3.688rem rgba(13, 18, 30, 0.17);
+  background-color: #fff;
+
+
+  min-height: 82px;
+
+  display: flex;
+  align-items: center;
+
+  .logo {
+    min-width: 200px;
+    padding-left: 30px;
+  }
+
+  nav {
+    display: flex;
+
+    a,
+    .nav-cars {
+      text-decoration: none;
+      padding: 10px 15px;
+      font-weight: bold;
+      font-size: 20px;
+      color: #48536f;
+
+      &::after {
+        content: "";
+        display: none;
+        height: 3px;
+        width: 20px;
+        background-color: #f87b80;
+      }
+
+      &.selected::after {
+        display: block;
+      }
+
+      &:visited {
+        color: #48536f;
+      }
+    }
+  }
+
+  .nav-cars {
+    position: relative;
+
+    ul {
+      position: absolute;
+      top: 20px;
+      min-width: 150px;
+      display: none;
+      padding: 10px 15px;
+      background-color: #f87b80;
+      box-shadow: 0 0.5rem 3.688rem rgba(13, 18, 30, 0.17);
+
+      li {
+        margin: 15px 0;
+      }
+
+      a {
+        color: #fff;
+
+        &:hover {
+          color: #48536f;
+        }
+      }
+    }
+
+    &:hover {
+      ul {
+        display: block;
+      }
+    }
+  }
+}
