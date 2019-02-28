@@ -11,10 +11,16 @@ const Links = ({ links }) => {
   return (
     <ul className="links">
       {links.map(link => {
-        const { text, link: href } = link;
+        const { text, link: href, content } = link;
         return (
           <li>
-            <a href={href}>{text}</a>
+            {content ? (
+              <div dangerouslySetInnerHTML={{ __html: content }} />
+            ) : (
+              <a href={href} target="_blank" rel="noopener noreferrer">
+                {text}
+              </a>
+            )}
           </li>
         );
       })}
