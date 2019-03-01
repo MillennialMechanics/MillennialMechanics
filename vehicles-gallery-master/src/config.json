@@ -14,14 +14,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "link": "https://www.youtube.com/watch?v=j7t4y43zrlI"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Part Average</p><span>$30-$65</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$108-$138</span></div>"
               }
             ]
           },
@@ -32,14 +31,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "link": "https://www.youtube.com/watch?v=3gSyHyrFN2Y"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Part Average</p><span>$105-$150</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$118</span></div>"
               }
             ]
           }
@@ -53,14 +51,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "link": "https://www.youtube.com/watch?v=xRZ81VmyTtA"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Part Average</p><span>$60-$400</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$935-$1580</span></div>"
               }
             ]
           },
@@ -71,14 +68,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "link": "https://www.youtube.com/watch?v=bzfgWtMwCAs"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Part Average</p><span>$5-$13</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$115-$126</span></div>"
               }
             ]
           }
@@ -93,14 +89,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121001.jpg"
+                "link": "https://www.youtube.com/watch?v=yMYcVQmHx54"
               },
               {
-                "text": "Part",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121001.jpg"
+                "content": "<div class='info-box'><p>Part Average</p><span>$16-$26</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
               }
             ]
           },
@@ -111,14 +106,51 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-101"
+                "link": "https://www.youtube.com/watch?v=XfnPgkogJzM"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-101"
+                "content": "<div class='info-box'><p>Part Average</p><span>$10-$33(19inch)</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$46-$49</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015HON003c_1280_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=u37maByPDoA"
+              },
+              {
+                "content": "<div class='info-box'><p>Part Average</p><span>$105-$150</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=kO1wYy6wsJI"
+              },
+              {
+                "content": "<div class='info-box'><p>Part Average</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
               }
             ]
           }
@@ -138,14 +170,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "link": "https://www.youtube.com/watch?v=RktXFq_1XrU"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$15-$65</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$176-$225</span></div>"
               }
             ]
           },
@@ -156,14 +187,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "link": "https://www.youtube.com/watch?v=3gSyHyrFN2Y"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Part Average</p><span>$$70-$125</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$119</span></div>"
               }
             ]
           }
@@ -177,14 +207,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121002.jpg"
+                "link": "https://www.youtube.com/watch?v=Yr0_kHUxfjU"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$$30-$500</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$935-$1580</span></div>"
               }
             ]
           },
@@ -195,14 +224,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "link": "https://www.youtube.com/watch?v=LijupULJJ7M"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$5-$13</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$115-$126</span></div>"
               }
             ]
           }
@@ -217,14 +245,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121001.jpg"
+                "link": "https://www.youtube.com/watch?v=RwJm1ozoToI"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$16-$26(one)</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
               }
             ]
           },
@@ -235,14 +262,51 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "link": "https://www.youtube.com/watch?v=Li-cOP8J-g8"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$10-$23(22inch)</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$47-$50</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015HON006k_1280_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=pwzsv_AN02Y"
+              },
+              {
+                "content": "<div class='info-box'><p>Part Average</p><span>$96-$122</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=kO1wYy6wsJI"
+              },
+              {
+                "content": "<div class='info-box'><p>Part Average</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
               }
             ]
           }
@@ -266,14 +330,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "link": "https://www.youtube.com/watch?v=BioDF_m4_CY"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$28-$60</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$127-$163</span></div>"
               }
             ]
           },
@@ -284,14 +347,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "link": "https://www.youtube.com/watch?v=i2JWkDyg26A"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$59-$127</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$124</span></div>"
               }
             ]
           }
@@ -305,14 +367,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
+                "link": "https://www.youtube.com/watch?v=K0tuf84ZTg4"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
+                "content": "<div class='info-box'><p>Part Average</p><span>$55-$160</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$958-$1621</span></div>"
               }
             ]
           },
@@ -323,14 +384,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
+                "link": "https://www.youtube.com/watch?v=vGx6LrA-isU"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
+                "content": "<div class='info-box'><p>Part Average</p><span>$5-$10</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$125-$136</span></div>"
               }
             ]
           }
@@ -345,14 +405,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
+                "link": "https://www.youtube.com/watch?v=9FeE6ol_QS4"
               },
               {
-                "text": "Part",
-                "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
+                "content": "<div class='info-box'><p>Part Average</p><span>$15-$27</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
               }
             ]
           },
@@ -363,22 +422,58 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
+                "link": "https://www.youtube.com/watch?v=YQfmAVNGl2A"
               },
               {
-                "text": "Part",
-                "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
+                "content": "<div class='info-box'><p>Part Average</p><span>$10-$17(18inch)</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$52-$55</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015TOY003a_1280_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=9FeE6ol_QS4"
+              },
+              {
+                "content": "<div class='info-box'><p>Part Average</p><span>$49-$63</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$15-$27</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=YQfmAVNGl2A"
+              },
+              {
+                "content": "<div class='info-box'><p>Part Average</p><span>$10-$17(18inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$52-$55</span></div>"
               }
             ]
           }
         ]
       }
     ]
-  }]
-}, {
+  }, {
   "name": "Toyota Corolla 2014-2016",
     "image": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015TOY005c_1280_03",
     "link": "/Corolla-14-16",
@@ -391,15 +486,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "link": "https://www.youtube.com/watch?v=z2WUnJmk6zE"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$27-$60</span></div>"
               },
               {
-                "text": "Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$127-$163</span></div>"
               }
             ]
           },
@@ -410,14 +503,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "link": "https://www.youtube.com/watch?v=i2JWkDyg26A"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Part Average</p><span>$44-$110</span></div>"
               },
               {
-               "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$125</span></div>"
               }
             ]
           }
@@ -431,14 +523,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121002.jpg"
+                "link": "https://www.youtube.com/watch?v=U8vF9rkUmD8"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$60-$280</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$958-$1621</span></div>"
               }
             ]
           },
@@ -449,14 +540,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "link": "https://www.youtube.com/watch?v=6pWmRV0v9YI"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$5-$10</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$125-$136</span></div>"
               }
             ]
           }
@@ -471,14 +561,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121001.jpg"
+                "link": "https://www.youtube.com/watch?v=GHezj9nmbxE"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$15-$27</span></div>"
               },
               {
-               "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+               "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"
               }
             ]
           },
@@ -492,11 +581,48 @@
                 "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$9-$17(16inch)</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$52-$55</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015TOY005c_1280_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=TilQDwpHzmQ"
+              },
+              {
+                "content": "<div class='info-box'><p>Part Average</p><span>$83-$124</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=LeHfFKO-cQk"
+              },
+              {
+                "content": "<div class='info-box'><p>Part Average</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"
               }
             ]
           }
@@ -520,14 +646,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "link": "https://www.youtube.com/watch?v=SXD6lSt5yic"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "content": "<div class='info-box'><p>Part Average</p><span>$25-$55</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$147-$188</span></div>"
               }
             ]
           },
@@ -538,14 +663,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "link": "https://www.youtube.com/watch?v=3gSyHyrFN2Y"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "content": "<div class='info-box'><p>Part Average</p><span>$48-$125</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$122</span></div>"
               }
             ]
           }
@@ -559,14 +683,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "link": "https://www.youtube.com/watch?v=YeTCDqb3LO8"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "content": "<div class='info-box'><p>Part Average</p><span>$60-$300</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$885-$1175</span></div>"
               }
             ]
           },
@@ -577,14 +700,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "link": "https://www.youtube.com/watch?v=dpah9_MlLYw"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "content": "<div class='info-box'><p>Part Average</p><span>$5-$15</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$102-$113</span></div>"
               }
             ]
           }
@@ -599,14 +721,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+                "link": "https://www.youtube.com/watch?v=QRTb80MzbyI"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$16-$26</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
               }
             ]
           },
@@ -617,14 +738,51 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+                "link": "https://www.youtube.com/watch?v=Gi5-jnQl9wk"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$6-$17(15inch)</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$56-$59</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2013NIS011c_640_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=c5dTkf-l6j8&t=27s"
+              },
+              {
+                "content": "<div class='info-box'><p>Part Average</p><span>$119-$145</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=2C7orAGl1Cc"
+              },
+              {
+                "content": "<div class='info-box'><p>Part Average</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$69-$88</span></div>"
               }
             ]
           }
@@ -644,14 +802,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "link": "https://www.youtube.com/watch?v=A2TPtqrXxps"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$30-$59</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$108-$138</span></div>"
               }
             ]
           },
@@ -662,14 +819,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "link": "https://www.youtube.com/watch?v=3gSyHyrFN2Y"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Part Average</p><span>$65-$150</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$123</span></div>"
               }
             ]
           }
@@ -683,14 +839,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121002.jpg"
+                "link": "https://www.youtube.com/watch?v=Luw_YCoCfEk"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$50-$550</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$30-$59</span></div>"
               }
             ]
           },
@@ -701,14 +856,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "link": "https://www.youtube.com/watch?v=Terc6ESc9uM"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$5-$15</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$125-$136</span></div>"
               }
             ]
           }
@@ -723,14 +877,13 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121001.jpg"
+                "link": "https://www.youtube.com/watch?v=a4dF7CqWPbI"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$16-$26</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
               }
             ]
           },
@@ -741,14 +894,51 @@
             },
             "links": [{
                 "text": "Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "link": "https://www.youtube.com/watch?v=PI9fuTVqcNY"
               },
               {
-                "text": "Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Part Average</p><span>$9-$17(16inch)</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$42-$45</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015NIS002f_1280_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=s9A6iQ_fg0I"
+              },
+              {
+                "content": "<div class='info-box'><p>Part Average</p><span>$77-$121</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$69-$88</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=2C7orAGl1Cc&t=454s"
+              },
+              {
+                "content": "<div class='info-box'><p>Part Average</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"
               }
             ]
           }
