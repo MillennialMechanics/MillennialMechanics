@@ -151,7 +151,7 @@
               },
               {
                 "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
-              }
+            }
             ]
           }
         ]
@@ -308,6 +308,318 @@
               {
                 "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
               }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+  "name": "Honda Odyssey 2009-2019",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014HON010c_640_03",
+    "link": "/Odyssey-09-19",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014HON010c_640_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=eeKm5chaXO4"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$25-$46</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$184-$232</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=eTlrUdqcDuM"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$55-$108</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$120</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014HON010c_640_02",
+        "points": [{
+            "position": {
+              "top": "62%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=DJzW4R35xBQ"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$20-$525</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$1534-$2600</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "43%",
+              "left": "37%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=jzuCaR6pnxU"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$4-$11</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2014HON010c_640_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=UJTU2xTNoo4"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$16-$26</span></div>"
+              },
+              {
+               "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=ZdfHiRET14U"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$6-$17(15 inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$28-$31</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014HON010d_640_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=qEU7mvAd3GE"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$135-$195</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$76</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=pqdZBDt4QR8"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$116-$291</span></div>" 
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+  "name": "Honda CR-V 2007-2016",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014HON007c_640_03",
+    "link": "/CR-V-07-16",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014HON007c_640_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=E0kfJ5g-7SE"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$22-$50</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$195-$244</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=350jCX0uffs"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$60-$130</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$120</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014HON007c_640_02",
+        "points": [{
+            "position": {
+              "top": "61%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=xgjB5Vr7M4M"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$20-$600</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$1534-$2600</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "40%",
+              "left": "32%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=BJyHZIaa3Go"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$4-$8</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014HON007c_640_01",
+        "points": [{
+            "position": {
+              "top": "43%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=n0WNXDsREI8"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$16-$26</span></div>"
+              },
+              {
+               "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=oeBJu5xv8Ck"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$10-$30(19inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$28-$31</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014HON007c_640_01",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=lGgL5JK8Wm8"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$135-$195</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$76</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=07MJJiTXpcA"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$95-$191</span></div>"  
+             }
             ]
           }
         ]
@@ -629,6 +941,318 @@
         ]
       }
     ]
+  }, {
+  "name": "Toyota Prius 2010-2015",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014TOY010a_640_03",
+    "link": "/Prius-10-15",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014TOY010a_640_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=HJK25-alw-g"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$23-$46</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$205-$332</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=1roBGobcUNE"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$49-$120</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$120</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014TOY010a_640_02",
+        "points": [{
+            "position": {
+              "top": "57%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=7KUDaJj1w9I"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$21-$605</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$958-$1621</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "40%",
+              "left": "37%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=U24gQmD9dcE"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$5-$15</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2014TOY010a_640_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=-_Ur4oPhymY"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$15-$27</span></div>"
+              },
+              {
+               "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=4yOU6zQmidk"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$10-$23(22inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$30-$33</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014TOY010d_640_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=fpxyXboW4Qo"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$135-$195</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=mwUnPkQ94OE"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$200-$269</span></div>" 
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+  "name": "Toyota 4Runner 2005-2016",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014TOY001a_640_03",
+    "link": "/4Runner-05-16",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014TOY001a_640_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=ltY8COH6tGI"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$19-$40</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$171-$298</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=VCb6pA0EpxA"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$62-$145</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$120</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014TOY001a_640_02",
+        "points": [{
+            "position": {
+              "top": "63%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=oSe2tWqa53I"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$19-$400</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$958-$1622</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "38%",
+              "left": "42%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=-6B6q11pPUs"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$5-$20</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014TOY001a_640_01",
+        "points": [{
+            "position": {
+              "top": "40%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=ulnmEV22rpI"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$15-$27</span></div>"
+              },
+              {
+               "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "26%",
+              "left": "47%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=0lH_G5msqaI"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$9-$22(28inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$30-$33</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014TOY001a_640_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=VCb6pA0EpxA"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$135-$195</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=Y2iBE912sWE"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$98-$217</span></div>"  
+             }
+            ]
+          }
+        ]
+      }
+    ]
   }]
 }, {
   "name": "Nissan",
@@ -939,6 +1563,1574 @@
               },
               {
                 "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+  "name": "Nissan Maxima 2009-2015",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014NIS007a_640_03",
+    "link": "/Maxima-09-15",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014NIS007a_640_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=z2WUnJmk6zE"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$27-$60</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$127-$163</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=i2JWkDyg26A"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$44-$110</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$125</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014NIS007a_640_02",
+        "points": [{
+            "position": {
+              "top": "57%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=U8vF9rkUmD8"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$60-$280</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$958-$1621</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "40%",
+              "left": "37%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=6pWmRV0v9YI"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$5-$10</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$125-$136</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014NIS007a_640_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=GHezj9nmbxE"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$15-$27</span></div>"
+              },
+              {
+               "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$9-$17(16inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$52-$55</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014NIS007a_640_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=TilQDwpHzmQ"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$83-$124</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=LeHfFKO-cQk"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>" 
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+  "name": "Nissan Titan 2008-2015",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014NIS012b_640_03",
+    "link": "/Titan-08-15",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014NIS012b_640_03",
+        "points": [{
+            "position": {
+              "top": "56%",
+              "left": "13%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=z2WUnJmk6zE"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$27-$60</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$127-$163</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "62%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=i2JWkDyg26A"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$44-$110</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$125</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014NIS012b_640_02",
+        "points": [{
+            "position": {
+              "top": "55%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=U8vF9rkUmD8"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$60-$280</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$958-$1621</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "44%",
+              "left": "37%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=6pWmRV0v9YI"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$5-$10</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$125-$136</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014NIS012b_640_01",
+        "points": [{
+            "position": {
+              "top": "42%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=GHezj9nmbxE"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$15-$27</span></div>"
+              },
+              {
+               "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "27%",
+              "left": "34%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$9-$17(16inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$52-$55</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014NIS012a_640_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=TilQDwpHzmQ"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$83-$124</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=LeHfFKO-cQk"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"  
+             }
+            ]
+          }
+        ]
+      }
+    ]
+  }]
+}, {
+  "name": "Chevrolet",
+  "link": "/Chevrolet",
+  "cars": [{
+    "name": "Chevrolet Silverado 2007-2013",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2012CHE012c_640_03",
+    "link": "/Silverado-07-13",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2012CHE012c_640_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=OmO5HVrrCTs"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$25-$64</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$108-$138</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=S15qByu-pNE"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$140-$171</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$120</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2012CHE012c_640_02",
+        "points": [{
+            "position": {
+              "top": "56%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=CTeTpu5c914"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$300-$500</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$1534-$2600</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "40%",
+              "left": "41%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=iQM58RA6LJI"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$5-$10</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$125-$136</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_2000/prod/cars/chrome/white/2012CHE012c_640_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=QASPxsOqBPw"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$16-$26</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "28%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=3chmIG95hcA"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$10-$30(22inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$35-$38</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_2000/prod/cars/chrome/white/2012CHE012c_640_01",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=CdVEMEvB9iw"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$108-$176</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=O-5YHPOQ1Y4"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$72-$108(4.3L V6)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$127-$163</span></div>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+  "name": "Chevrolet Sonic 2012-2018",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014CHE026a_640_03",
+    "link": "/Sonic-12-18",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014CHE026a_640_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=WjmZXoNdvhY"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$34-$66</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$75</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=sB6uVNp2I_M"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$44-79</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$120</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014CHE026a_640_02",
+        "points": [{
+            "position": {
+              "top": "57%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=xqMY7HThnB8"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$97-$270</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$1534-$2600</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "40%",
+              "left": "37%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=bqJpU2wwci0"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$5-$15</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_2000/prod/cars/chrome/white/2014CHE026a_640_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=saAv_xL8hJs"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$16-$26</span></div>"
+              },
+              {
+               "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=yiXbjPaOKlo"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$10-$17(14inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$72</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_2000/prod/cars/chrome/white/2014CHE026a_640_01",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=70LNmW-EoZ4"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$111-$209</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$125</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=xyqOo5MhgGk"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$113</span></div>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+  "name": "Chevrolet Malibu 2008-2012",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014CHE011a_640_03",
+    "link": "/Malibu-08-12",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014CHE011a_640_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=dVOq7wnyQ7E"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$30-$59</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$146-$276</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=aKcTXWzO0mQ"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$65-$150</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$120</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014CHE011a_640_02",
+        "points": [{
+            "position": {
+              "top": "57%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=xqMY7HThnB8"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$50-$550</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$1534-$2600</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "40%",
+              "left": "37%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=j7sG-IOFwng"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$5-$15</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$51</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_2000/prod/cars/chrome/white/2014CHE011a_640_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=3yYgEz4zsOI"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$16-$26</span></div>"
+              },
+              {
+               "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$51</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=ej3s7CWWY_c"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$9-$17(16inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$72</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_2000/prod/cars/chrome/white/2014CHE011a_640_01",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=CQ4_Ze-CVe8"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$77-$121</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$125</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=wkeljw7K2kc"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$94-$280</span></div>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+  "name": "Chevrolet Impala 2006-2016",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2012CHE010a_640_03",
+    "link": "/Impala-06-16",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2012CHE010a_640_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=vHsvzg9TUPM"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$20-$47</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$146-$276</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=LcYS54l4UJU"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$45-$110</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$120</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2012CHE010a_640_02",
+        "points": [{
+            "position": {
+              "top": "57%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=j2cIaidBskc"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$18-$572</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$1534-$2600</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "40%",
+              "left": "37%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=TZnBHuKI6sA"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$5-$12</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$52</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_2000/prod/cars/chrome/white/2012CHE010a_640_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=t3ujHAgs7PY"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$16-$26</span></div>"
+              },
+              {
+               "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$52</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=GDFGz-PSfgY"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$6-$17(15inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$72</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_2000/prod/cars/chrome/white/2012CHE010a_640_01",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=MLMMhOdYn48"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$135-$195</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$125</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=E4sxyMMelbk"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$136-$206</span></div>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }]
+}, {
+  "name": "Ford",
+  "link": "/Ford",
+  "cars": [{
+    "name": "Ford F-150 2004-2008",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014FRD009c_640_03",
+    "link": "/F-150-04-08",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014FRD009c_640_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=4tCGxLkyfWk"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average</p><span>$22-$33</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$136-$326</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=IeRjU-2N60k"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$80-$160</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$200-$350</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014FRD009c_640_02",
+        "points": [{
+            "position": {
+              "top": "57%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=GInQABH2q0w"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average</p><span>$53-$750</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$1534-$2600</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "41%",
+              "left": "29%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=bj6LEA3JDnY"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average</p><span>$10-$15</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$50-$70</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2014FRD009c_640_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=gb3gJ-rTSp8"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$18-$26</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$50-$70</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=Xdx5Fzf11Bk"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$10-$17(14inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$72</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014FRD009f_640_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=QtTVNlXgAKg"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$165-$195</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$125</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=SZjwwK1yTW8"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plug Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$198-$559</span></div>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+    "name": "Ford Explorer 2011-2012",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014FRD007a_640_03",
+    "link": "/Explorer-11-12",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014FRD007a_640_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=p6z7RuF6HSw"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$24-$70</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=mnZLA3Kn8OQ"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$54-$120</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$120</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014FRD007a_640_02",
+        "points": [{
+            "position": {
+              "top": "55%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=JTQLDfumlBw"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$170-$270</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span$1534-$2600</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "40%",
+              "left": "37%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=Ep5BbFJsJTU"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$3-$13</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014FRD007a_640_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=uqMrxSkqGqw"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$18-$26</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=0JuxtTUMit4"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$9-$17(16inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$27-$33</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014FRD007b_640_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=tyWjIJkDR-A"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$100-$195</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$125</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=pxDBjr_wbqo"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$75</span></div>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+    "name": "Ford Focus 2000-2004",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014FRD014b_640_03",
+    "link": "/Focus-00-04",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014FRD014b_640_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=95Hdh2tRsbI"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$25-$43</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=XJ1tOQb1fwI"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$45-$100</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$120</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014FRD014b_640_02",
+        "points": [{
+            "position": {
+              "top": "55%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=sf5jU8ttX58"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$150-$275</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$1534-$2600</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "40%",
+              "left": "37%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=J302c8_muh8"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$4-$8</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014FRD014b_640_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=jIDrxRtc34U"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$18-$26</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=WQEodhHoncE"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$9-$22(28inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$27-$33</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014FRD014e_640_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=cUfNFdBEi2E"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$110-$149</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$125</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=BSUCOE3Sn2c"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$75</span></div>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+    "name": "Ford Mustang 2015-2018",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014FRD016b_640_03",
+    "link": "/Mustang-15-18",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014FRD016b_640_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=linNBXbGZis"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$16-$33</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$126-$411</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=Tm-q4HCoSQ0"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$75-$150</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$120</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2014FRD016b_640_02",
+        "points": [{
+            "position": {
+              "top": "55%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=T8cswaSMWF8"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$250-$500</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$1534-$2600</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "40%",
+              "left": "37%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=N_PYQGBUYRs"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$6-$12</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014FRD016b_640_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "46%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=EAUmtdAhFgk"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$18-$26</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$39-$50</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "28%",
+              "left": "45%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=wjbZ2qUyziY"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$10-$30(19inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$27-$33</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_768/prod/cars/chrome/white/2014FRD016c_640_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=tjNagSJdRLY"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$135-$165</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$59-$125</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=z62GqqOi8uI"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$101-$344</span></div>"
               }
             ]
           }
